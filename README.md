@@ -1,6 +1,5 @@
-**Repository Name**: 🏀 Flutter Slam Dunk: Cubit Mastery 🚀
-
-**Description**: 
+## 🏀 Flutter Slam Dunk: Cubit Mastery 🚀
+ 
 Unleash your inner MVP with this slam-dunking Flutter app! 🏆 Built as a Cubit learning adventure, it's not just code; it's a championship journey. Score high on state management and Flutter skills! 🌟
 
 **Features**:
