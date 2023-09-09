@@ -1,16 +1,39 @@
-# points_counter
+**Repository Name**: 🏀 Flutter Slam Dunk: Cubit Mastery 🚀
 
-A new Flutter project.
+**Description**: 
+Unleash your inner MVP with this slam-dunking Flutter app! 🏆 Built as a Cubit learning adventure, it's not just code; it's a championship journey. Score high on state management and Flutter skills! 🌟
 
-## Getting Started
+**Features**:
+- Intuitive UI for lightning-fast score tracking 📊
+- Cubit-powered for ultra-smooth state handling 🧩
+- Sharpen your [Dart](https://dart.dev/) skills, build a functional app 🖥️
+- Perfect for devs aiming to slam dunk their [Flutter](https://flutter.dev/) game! 👨‍💻👩‍💻
 
-This project is a starting point for a Flutter application.
+**Tech Stack**:
+- [Flutter](https://flutter.dev/) 💙
+- [Dart](https://dart.dev/) 🎯
+- [Cubit](https://pub.dev/packages/flutter_bloc) 🧱
 
-A few resources to get you started if this is your first Flutter project:
+**App Preview**:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+  <video src="https://github.com/MichealMoris/Flutter-Basketball-Counter/assets/138615256/a09e079c-1283-4b4d-9b09-122b6c94c607"/>
+</div>
+    
+[![App Preview](https://github.com/MichealMoris/Flutter-Basketball-Counter/blob/main/app_preview.gif)](https://github.com/MichealMoris/Flutter-Basketball-Counter)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Getting Started**:
+1. Clone the repository to your local machine. 🔄
+2. Open the project in your favorite IDE. 🖥️
+3. Run `flutter pub get` to install dependencies. 📦
+4. Connect your device or use an emulator. 📱💻
+5. Run `flutter run` to start the app. ▶️
+
+**Contributing**:
+We welcome contributions! Feel free to open issues or pull requests. Let's build this app together and aim for the championship! 🤝🏀
+
+---
+
+*Elevate your game and slam dunk your code! 🚀🏀🌟*
+
+Keep coding, keep dunking, Micheal! 🎉
